@@ -1,0 +1,4 @@
+wikiart-with-captions/
+*.tar
+__pycache__
+.vscode
